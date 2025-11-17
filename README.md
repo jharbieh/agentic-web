@@ -134,6 +134,12 @@ NLWeb is platform-agnostic, supporting major operating systems (Windows, macOS, 
 Reference: Introducing NLWeb: Brining conversational interfaces directly to the web.
 - https://news.microsoft.com/source/features/company-news/introducing-nlweb-bringing-conversational-interfaces-directly-to-the-web/?msockid=35ff00aff67f621f0a4114dcf7546395
 
+## Agent-user Interaction Protocol
+Brief: AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.
+
+Reference: Agent-User Interaction Protocol (AG-UI)
+- https://docs.ag-ui.com/introduction
+
 ### Links and additional resources
 Below are the links and labels you provided (included verbatim):
 
@@ -166,6 +172,9 @@ Below are the links and labels you provided (included verbatim):
 - NLWeb Protocol
   - https://github.com/nlweb-ai/NLWeb
 
+- Agent-User Interaction Protocol (AG-UI)
+  - https://docs.ag-ui.com/introduction
+
 # Agentic Stacks
 In addition to frameworks and protocols, there are several ongoing projects geared towards building the next tecnology stack that powers the agentic web. 
 
@@ -195,6 +204,7 @@ Agent Building Frameworks that enable you to build multiagent systems. Here are 
   - https://strandsagents.com/latest/
 
 - Microsoft Agent Framework (MAF)
+  - https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview
   - https://github.com/microsoft/agent-framework
 
 - OpenAI Agents SDK
@@ -208,3 +218,16 @@ Agent Building Frameworks that enable you to build multiagent systems. Here are 
 
 - LangChain
   - https://www.langchain.com/
+
+# Agentic for Beginners
+Learn how to develop AI Agents
+
+- Microsoft Agent Framework Quick Start guide (Python)
+  - https://learn.microsoft.com/en-us/agent-framework/tutorials/quick-start?pivots=programming-language-python
+
+
+- Microsoft GenAI for Beginners
+  - https://github.com/microsoft/generative-ai-for-beginners
+
+- Microsoft AI Agents for Beginners
+  - https://microsoft.github.io/ai-agents-for-beginners/14-microsoft-agent-framework/

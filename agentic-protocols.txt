@@ -28,3 +28,6 @@ https://github.com/agent-network-protocol
 
 NLWeb Protocol
 https://github.com/nlweb-ai/NLWeb
+
+Agent-User Interaction Protocol (AG-UI)
+https://docs.ag-ui.com/introduction

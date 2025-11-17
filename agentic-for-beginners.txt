@@ -1,0 +1,10 @@
+Learn Agentic Development
+
+Microsoft Agent Framework Quick Start guide (Python)
+https://learn.microsoft.com/en-us/agent-framework/tutorials/quick-start?pivots=programming-language-python
+
+Microsoft GenAI for Beginners
+https://github.com/microsoft/generative-ai-for-beginners
+
+Microsoft AI Agents for Beginners
+https://microsoft.github.io/ai-agents-for-beginners/14-microsoft-agent-framework/
