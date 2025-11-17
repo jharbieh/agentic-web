@@ -1,0 +1,30 @@
+Agentic Protocols
+
+W3C AI Agent Protocol (AAP)
+https://www.w3.org/community/agentprotocol/
+https://w3c-cg.github.io/ai-agent-protocol/
+
+OpenAI Agentic Commerce Protocol (ACP)
+https://developers.openai.com/commerce
+https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
+
+Anthropic Model Context Protocol (MCP)
+https://www.anthropic.com/news/model-context-protocol
+https://modelcontextprotocol.io/docs/getting-started/intro
+
+IBM Agent Communication Protocol (ACP)
+https://research.ibm.com/projects/agent-communication-protocol
+
+Google Agent 2 Agent Protocol (A2A)
+https://a2a-protocol.org/dev/
+
+Google Agent Payments Protocol (AP2)
+https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+https://a2a-protocol.org/latest/
+
+Agent Network Protocol (ANP)
+https://agentnetworkprotocol.com/en/
+https://github.com/agent-network-protocol
+
+NLWeb Protocol
+https://github.com/nlweb-ai/NLWeb

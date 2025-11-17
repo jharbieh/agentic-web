@@ -1,0 +1,12 @@
+Agentic Patterns
+
+Microsoft
+https://microsoft.github.io/multi-agent-reference-architecture/index.html
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns
+
+AWS
+https://strandsagents.com/latest/documentation/docs/user-guide/concepts/multi-agent/multi-agent-patterns/
+
+Google
+https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system
+

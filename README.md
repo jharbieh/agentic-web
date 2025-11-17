@@ -124,6 +124,16 @@ Reference: Foundational payment and interoperability specs include Interledger (
 - Interledger Protocol: https://interledger.org/
 - ISO 20022: https://www.iso20022.org/
 
+## NLWeb Protocol
+Brief: The NLWeb protocol is an open-source framework developed by Microsoft to enable conversational interfaces for websites. It simplifies the integration of natural language processing (NLP) capabilities, allowing users to interact with websites using everyday language. This protocol bridges structured website data with AI models, making it accessible to both humans and AI agents. 
+
+NLWeb leverages Model Context Protocol (MCP), which acts as a standard for enabling AI agents and chatbots to interact with websites. MCP is to NLWeb what HTTP is to HTML, providing a foundational layer for conversational AI on the web. The protocol uses Schema.org and other semi-structured formats like RSS to organize and share data, ensuring compatibility with millions of websites.
+
+NLWeb is platform-agnostic, supporting major operating systems (Windows, macOS, Linux) and AI models (OpenAI, Anthropic, Gemini, etc.). It is lightweight and scalable, capable of running on anything from data center clusters to laptops.
+
+Reference: Introducing NLWeb: Brining conversational interfaces directly to the web.
+- https://news.microsoft.com/source/features/company-news/introducing-nlweb-bringing-conversational-interfaces-directly-to-the-web/?msockid=35ff00aff67f621f0a4114dcf7546395
+
 ### Links and additional resources
 Below are the links and labels you provided (included verbatim):
 
@@ -139,6 +149,12 @@ Below are the links and labels you provided (included verbatim):
   - https://www.anthropic.com/news/model-context-protocol
   - https://modelcontextprotocol.io/docs/getting-started/intro
 
+- IBM Agent Communication Protocol (ACP)
+  - https://research.ibm.com/projects/agent-communication-protocol
+
+- Google Agent 2 Agent Protocol (A2A)
+  - https://a2a-protocol.org/dev/
+
 - Google Agent Payments Protocol (AP2)
   - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
   - https://a2a-protocol.org/latest/
@@ -146,3 +162,49 @@ Below are the links and labels you provided (included verbatim):
 - Agent Network Protocol (ANP)
   - https://agentnetworkprotocol.com/en/
   - https://github.com/agent-network-protocol
+
+- NLWeb Protocol
+  - https://github.com/nlweb-ai/NLWeb
+
+# Agentic Stacks
+In addition to frameworks and protocols, there are several ongoing projects geared towards building the next tecnology stack that powers the agentic web. 
+
+- AGNTCY
+  - https://agntcy.org/
+
+# Agentic Patterns
+Multi-agent systems follow a typical pattern. These have been identified as follows. 
+
+- Microsoft
+  - https://microsoft.github.io/multi-agent-reference-architecture/index.html
+  - https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns
+
+- AWS
+  - https://strandsagents.com/latest/documentation/docs/user-guide/concepts/multi-agent/multi-agent-patterns/
+
+- Google
+  - https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system
+
+# Agentic Frameworks
+Agent Building Frameworks that enable you to build multiagent systems. Here are the few well known in the industry. 
+
+- Google Agent Development Kit (ADK)
+  - https://google.github.io/adk-docs/get-started/
+
+- AWS Strands Agents SDK
+  - https://strandsagents.com/latest/
+
+- Microsoft Agent Framework (MAF)
+  - https://github.com/microsoft/agent-framework
+
+- OpenAI Agents SDK
+  - https://platform.openai.com/docs/guides/agents-sdk
+
+- Anthropic Agent SDK
+  - https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk
+
+- CrewAI
+  - https://github.com/crewAIInc/crewAI
+
+- LangChain
+  - https://www.langchain.com/

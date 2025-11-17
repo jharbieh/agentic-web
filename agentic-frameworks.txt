@@ -1,0 +1,22 @@
+Agent Building Frameworks
+
+Google Agent Development Kit (ADK)
+https://google.github.io/adk-docs/get-started/
+
+AWS Strands Agents SDK
+https://strandsagents.com/latest/
+
+Microsoft Agent Framework (MAF)
+https://github.com/microsoft/agent-framework
+
+OpenAI Agents SDK
+https://platform.openai.com/docs/guides/agents-sdk
+
+Anthropic Agent SDK
+https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk
+
+CrewAI
+https://github.com/crewAIInc/crewAI
+
+LangChain
+https://www.langchain.com/
